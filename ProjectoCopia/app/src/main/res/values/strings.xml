@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProjectoCopia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="email">Email</string>
+    <string name="pin">PIN</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="ej_50">Ej: 50</string>
+    <string name="apariencia">Apariencia</string>
+
+    <string-array name="spinnerUno">
+        <item>Pastel</item>
+        <item>Oscuro</item>
+    </string-array>
+
+    <string-array name="spinnerDos">
+        <item>Clásica</item>
+        <item>Alto Contraste</item>
+    </string-array>
+
+    <string-array name="spinnerTres">
+        <item>Google Drive</item>
+        <item>DropBox</item>
+    </string-array>
+
+    <string-array name="spinnerCuatro">
+        <item>La cucaracha</item>
+        <item>Alarma</item>
+    </string-array>
+</resources>
